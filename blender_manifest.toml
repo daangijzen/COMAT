@@ -1,0 +1,15 @@
+schema_version = "1.0.0"    
+
+id = "COMAT"
+version = "1.0.0"
+name = "Copilot's Mixamo Animation Transfer (COMAT)"
+tagline = "Automates the transfer of Mixamo animations onto selected skeletons."
+maintainer = "Daan Gijzen <daangijzen@gmail.com>"
+type = "add-on"
+
+tags = ["Animation", "Rigging"]
+blender_version_min = "4.0.0"
+
+license = [
+  "OpenSource",
+]
